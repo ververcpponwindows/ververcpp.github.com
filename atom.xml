@@ -4,7 +4,7 @@
   <title><![CDATA[好吧。。。]]></title>
   <link href="http://ververcpp.github.io/atom.xml" rel="self"/>
   <link href="http://ververcpp.github.io/"/>
-  <updated>2013-05-29T22:07:12+08:00</updated>
+  <updated>2013-05-29T22:45:58+08:00</updated>
   <id>http://ververcpp.github.io/</id>
   <author>
     <name><![CDATA[verver(cpp)]]></name>
@@ -12,5 +12,14 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Post 我要开始写blog了？]]></title>
+    <link href="http://ververcpp.github.io/blog/2013/05/29/post-%E6%88%91%E8%A6%81%E5%BC%80%E5%A7%8B%E5%86%99blog%E4%BA%86%EF%BC%9F/"/>
+    <updated>2013-05-29T00:00:00+08:00</updated>
+    <id>http://ververcpp.github.io/blog/2013/05/29/post-我要开始写blog了？</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
 </feed>
