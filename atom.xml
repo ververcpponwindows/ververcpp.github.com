@@ -4,7 +4,7 @@
   <title><![CDATA[好吧。。。]]></title>
   <link href="http://ververcpp.github.io/atom.xml" rel="self"/>
   <link href="http://ververcpp.github.io/"/>
-  <updated>2013-05-29T23:27:41+08:00</updated>
+  <updated>2013-05-29T23:30:11+08:00</updated>
   <id>http://ververcpp.github.io/</id>
   <author>
     <name><![CDATA[verver(cpp)]]></name>
@@ -14,10 +14,19 @@
 
   
   <entry>
-    <title type="html"><![CDATA[我要开始写博客了]]></title>
-    <link href="http://ververcpp.github.io/blog/2013/05/29/wo-yao-kai-shi-xie-bo-ke-liao/"/>
+    <title type="html"><![CDATA[Hello world]]></title>
+    <link href="http://ververcpp.github.io/blog/2013/05/29/hello-world/"/>
+    <updated>2013-05-29T23:19:00+08:00</updated>
+    <id>http://ververcpp.github.io/blog/2013/05/29/hello-world</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[我要开始写博客了??]]></title>
+    <link href="http://ververcpp.github.io/blog/2013/05/29/wo-yao-kai-shi-xie-bo-ke-liao-%3F%3F/"/>
     <updated>2013-05-29T22:31:00+08:00</updated>
-    <id>http://ververcpp.github.io/blog/2013/05/29/wo-yao-kai-shi-xie-bo-ke-liao</id>
+    <id>http://ververcpp.github.io/blog/2013/05/29/wo-yao-kai-shi-xie-bo-ke-liao-??</id>
     <content type="html"><![CDATA[<p>这只是一个测试，我还没有想好要写什么。。。。</p>
 ]]></content>
   </entry>
